@@ -10,3 +10,7 @@ npm run dev
 <br>
 <img src='https://github.com/issacto/PetStore/blob/master/example.png' width="700">
 </p>
+
+
+<br><br>
+Guide: https://www.trufflesuite.com/tutorials/pet-shop
