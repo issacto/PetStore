@@ -1,2 +1,6 @@
 # PetStore
-Solidity
+Tool: Solidity, Truffle, Ganache
+
+```
+npm run dev
+```
